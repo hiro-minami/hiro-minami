@@ -10,5 +10,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hiro-minami&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-minami" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-minami&layout=compact" />
 </a>
