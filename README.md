@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="left"> 
-    <img alt="githubstats" height="200px" width="55%" src="https://github-readme-stats.vercel.app/api?username=hiro-minami&count_private=true&show_icons=true&theme=radical" />
+    <img alt="githubstats" height="200px" width="54%" src="https://github-readme-stats.vercel.app/api?username=hiro-minami&count_private=true&show_icons=true&theme=radical" />
     <img alt="TopLangs" height="200px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-minami&layout=compact&theme=radical" />
 </p>
 
